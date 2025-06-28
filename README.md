@@ -4,7 +4,16 @@ A Verilog implementation of a RISC-V single-cycle processor supporting the RV32I
 
 ## Features
 - Supports RV32I instruction set.
-- Modular design with ALU, Register File, Control Unit, Program Counter, Extend Unit, Adders, Multiplexers, Instruction & Data Memories.
+- Modular design with:
+   - ALU
+   - Register File
+   - Control Unit
+   - Program Counter
+   - Extend Unit
+   - Adders
+   - Multiplexers
+   - Instruction Memory
+   - Data Memory
 - Modules integration in Top module.
 - Verified with testbenches.
 
