@@ -43,7 +43,7 @@ Follow these steps to run the RISC-V single-cycle processor on your machine:
 
 # 🌊 Example Waveform
 
-- <img width="600" alt="GTKWave Waveform" src="https://github.com/user-attachments/assets/219bd5ef-1932-4be5-99e4-1ed83628a141">
+<img width="600" alt="GTKWave Waveform" src="https://github.com/user-attachments/assets/219bd5ef-1932-4be5-99e4-1ed83628a141">
 
 # 📜 License
 - This project is licensed under the MIT License – free to use, modify, and share! 😊
